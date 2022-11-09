@@ -1,4 +1,4 @@
-# APP TITLE: A simple notes app
+# NOTES APP
 
 # ABOUT THE APP
 
