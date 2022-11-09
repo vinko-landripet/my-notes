@@ -13,7 +13,7 @@ The app is created for a technical job interview. The task was to develop a note
 
 # SETUP/RUN
 
-The files are created by using create-react-app, in order to view the project in your browser after pulling the code make sure to install the libraries mentioned above then in your terminal type "npm start" which will start a local server in your browser. 
+The files are created by using create-react-app, in order to view the project in your browser after pulling the code make sure to install the libraries mentioned above using "npm install" then in your terminal type "npm start" which will start a local server in your browser. 
 
 
 
