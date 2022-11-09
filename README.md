@@ -6,10 +6,10 @@ The app is created for a technical job interview. The task was to develop a note
 
 # TECHNOLOGIES USED
 
-Framework: React.js
-Styling: Vanilla CSS
-React Hooks: useState, useEffect
-Libraries: react-uuid, react-markdown
+## Framework: React.js
+## Styling: Vanilla CSS
+## React Hooks: useState, useEffect
+## Libraries: react-uuid, react-markdown
 
 # SETUP/RUN
 
